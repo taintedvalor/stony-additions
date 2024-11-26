@@ -1,0 +1,10 @@
+{
+  "container.alchemist_table": " ",
+
+  "entity.minecraft.villager.alchemist": "§6Alchemist",
+  "entity.minecraft.villager.occultist": "§6Occultist",
+  "entity.minecraft.villager.oceanographer": "§6Oceanographer",
+  "entity.minecraft.villager.horticulturist": "§6Horticulturist",
+
+  "itemGroup.villagersplus.group": "§6VillagersPlus"
+}

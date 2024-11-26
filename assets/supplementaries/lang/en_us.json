@@ -1,0 +1,11 @@
+{
+  "gui.supplementaries.present": " ",
+  "gui.supplementaries.present.send": "§6To:",
+  "gui.supplementaries.sack": " ",
+  "gui.supplementaries.safe": "§6Safe",
+  "gui.supplementaries.trapped_present": " ",
+
+  "gui.supplementaries.orange_trader.get": "§6I receive:",
+  "gui.supplementaries.orange_trader.receive": "§6You receive:",
+  "gui.supplementaries.orange_trader.trade": "§6TRADE OFFER"
+}

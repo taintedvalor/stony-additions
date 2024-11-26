@@ -1,0 +1,19 @@
+{
+"container.chipped.alchemy_bench":"§6Alchemy Bench",
+"container.chipped.botanist_workbench":"§6Botanist's Workbench",
+"container.chipped.carpenters_table":"§6Carpenter's Workbench",
+"container.chipped.glassblower":"§6Glassblower's Workbench",
+"container.chipped.loom_table":"§6Shepherd's Workbench",
+"container.chipped.mason_table":"§6Mason's Workbench",
+"container.chipped.tinkering_table":"§6Tinkering Table",
+
+"block.chipped.alchemy_bench":"§6Alchemy Bench",
+"block.chipped.botanist_workbench":"§6Botanist Workbench",
+"block.chipped.carpenters_table":"§6Carpenters Table",
+"block.chipped.glassblower":"§6Glassblower",
+"block.chipped.loom_table":"§6Loom Table",
+"block.chipped.mason_table":"§6Mason Table",
+"block.chipped.tinkering_table":"§6Tinkering Table",
+
+"text.chipped.preview":"§6Preview"
+}
